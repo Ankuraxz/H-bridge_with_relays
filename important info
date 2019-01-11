@@ -1,0 +1,9 @@
+1. 4x SPDT relays..............go through datasheet and functioning of relay 
+{https://www.electroschematics.com/9598/spdt-relay-switch/}
+{https://www.electronicshub.org/what-is-relay-and-how-it-works/}
+{http://www.datasheetarchive.com/pdf/download.php?id=6387259820cdb401724d355d2b47e975a1ac95&type=P&term=SUGAR%2520CUBE%2520RELAY}
+2. Resistor
+3. Wires etc.
+
+Note: I am leaving a link to my paper on Relay and its use with arduino. It contains the necessary diagram, needed refrences and the actual board.
+{http://www.jetir.org/papers/JETIR1808955.pdf}
