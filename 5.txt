@@ -1,0 +1,4 @@
+HI there.....do check these out
+1. https://www.electronicshub.org/ir-sensor/
+2. MY repo for H-bridge with relay    https://github.com/Ankuraxz/H-bridge_with_relays.git
+3. DATASHEET.....check this for your own sensor
